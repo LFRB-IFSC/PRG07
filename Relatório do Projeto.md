@@ -5,8 +5,8 @@ Desenvolver um aplicativo web integrado a um sistema de monitoramento de umidade
 
 **Requisitos do projeto:**
 - Utilizar a multiplataforma QT para desenvolver a interface gráfica em C++ do aplicativo web
-- aplicar conceitos da programação orentada a objetos no desenvolvimento do código.
+- aplicar conceitos da programação orientada a objetos no desenvolvimento do código.
 
 **Requisitos do produto**
 - Estabelecer a comunicação via bluetooth dos sensores e atuadores com o sistema de controle.
-- Possuir modos ligado, desligado e automático. Com parâmetros predefinidos de nivel de umidade desejado.
+- Possuir modos ligado, desligado e automático. Com parâmetros predefinidos de nível de umidade desejado.
